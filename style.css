@@ -117,17 +117,18 @@ h4{
     right: 6px;
 }
 .about{
-    padding: 100px 0px;
+    padding: 20px 0px ;
     background-color: #191919;
     width: 100%;
-    display:inline-block
+    display:inline-block;
 }
 .about img{
     height: 50%;
-    width: 430px;
+    width: 900px;
 }
 .about-text
 {
+    display:inline-block;
     width: 550px;
 }
 .main
